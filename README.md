@@ -6,4 +6,5 @@ How to run:
 1. install python3
 2. pip install click pillow
 3. git clone https://github.com/kid-on-github/image2html.git
-4. python3 image2html/image2html.py
+4. python3 image2html/image2html.py -i mike.jpg -o output.html
+
